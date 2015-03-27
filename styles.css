@@ -1,6 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
 body {
-  font-family: Arial;
+  font-family: "Open Sans", Arial;
   font-size: 24px;
-  color: white;
-  background: green;
+  color: WhiteSmoke;
+  background: #404040;
   }
