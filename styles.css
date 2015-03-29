@@ -60,9 +60,10 @@ body {
   background: #404040;
   }
 
-.centreColumn {
-  margin-left: 50%;
-  margin-right: 50%;
+/* Section definitions */
+
+.section1 {
+  width: 100%;
   height: 750px;
   background: #404040;
   color: WhiteSmoke;
@@ -75,8 +76,18 @@ body {
   color: #404040;
 }
 
+/* Section content */
+
 .hello {
-	margin-top: 200px;
+  margin-right: 50%;
+  margin-left: 50%;
+  margin-top: 200px;
+}
+
+.links {
+  margin-top: 200px;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 h1.header {
