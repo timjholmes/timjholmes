@@ -23,3 +23,9 @@ h1.header {
   font-size: xx-large;
   color: WhiteSmoke;
 }
+
+img.icon {
+  fill: WhiteSmoke;
+  width: 10%;
+  height: 10%;
+}
