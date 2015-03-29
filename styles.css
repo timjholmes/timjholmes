@@ -99,6 +99,7 @@ img.icon {
   margin-top: 50px;
 }
 
-a.links {
- color: #404040;
+div.links > a {
+  color: #404040;
+  text-align: center;
 }
