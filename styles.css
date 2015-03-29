@@ -10,16 +10,16 @@ body {
 
 .centreColumn {
   margin-left: 50%;
-  margin-right: 50;
+  margin-right: 50%;
 }
 
 .hello {
-	margin-top: 185px;
+	margin-top: 250px;
 }
 
 h1.header {
   font-family: "Raleway", Arial;
   font-weight: 600;
-  font-size: x-large;
+  font-size: xx-large;
   color: WhiteSmoke;
 }
