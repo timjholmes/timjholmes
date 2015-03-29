@@ -103,6 +103,10 @@ img.icon {
   text-align: center;
 }
 
+li {
+  padding-bottom: 100px;
+}
+
 a {
   color: #404040;
 }
