@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,600);
 
 body {
   font-family: "Open Sans", Arial;
@@ -7,12 +8,18 @@ body {
   background: #404040;
   }
 
+.centreColumn {
+  margin-left: 50%;
+  margin-right: 50;
+}
+
 .hello {
-	position: absolute;
-	top:0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	
-	margin: auto;
+	margin-top: 185px;
+}
+
+h1.header {
+  font-family: "Raleway", Arial;
+  font-weight: 600;
+  font-size: x-large;
+  color: WhiteSmoke;
 }
