@@ -174,8 +174,9 @@ a {
 
 .footer {
   padding: 5px;
-  width: 750px;
+  width: 100%;
   background: #404040;
   color: WhiteSmoke;
   font-size: small;
+  text-align: right;
 }
