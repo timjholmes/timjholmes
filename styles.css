@@ -169,7 +169,7 @@ li {
 }
 
 a {
-  color: Black;
+  color: Green;
 }
 
 .footer {
@@ -178,5 +178,5 @@ a {
   background: #404040;
   color: WhiteSmoke;
   font-size: small;
-  text-align: right;
+  text-align: center;
 }
