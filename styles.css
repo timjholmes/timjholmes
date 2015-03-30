@@ -171,3 +171,10 @@ li {
 a {
   color: #404040;
 }
+
+.footer {
+  padding: 5px;
+  width: 750px;
+  background: #404040;
+  color: WhiteSmoke;
+}
