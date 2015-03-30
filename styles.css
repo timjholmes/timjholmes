@@ -59,7 +59,6 @@ body {
   font-weight: 400;
   color: WhiteSmoke;
   background: #404040;
-  width: 750px;
   }
 
 /* Section definitions */
@@ -124,8 +123,8 @@ body {
 /* Section content */
 
 .hello {
-  margin-right: 50%;
-  margin-left: 50%;
+  padding-right: 50%;
+  padding-left: 50%;
 }
 
 h1.header {
@@ -140,23 +139,23 @@ h1.label {
   font-weight: 600;
   font-size: xx-large;
   color: Black;
-  margin-left: 50%;
-  margin-right: 50%;
+  padding-left: 50%;
+  padding-right: 50%;
   }
 
 p.about {
   font-size: large;
   color: Black;
-  margin-left: 30%;
-  margin-right: 30%;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
 img.icon {
   width: 100px;
   height: 100px;
   margin-top: 50px;
-  margin-left: 50%;
-  margin-right: 50%;
+  padding-left: 50%;
+  padding-right: 50%;
 }
 
 .links {
