@@ -139,6 +139,7 @@ h1.label {
   font-weight: 600;
   font-size: xx-large;
   color: Black;
+  padding-top: 25px;
   padding-left: 50%;
   padding-right: 50%;
   }
@@ -146,6 +147,7 @@ h1.label {
 p.about {
   font-size: large;
   color: Black;
+  padding-top: 25px;
   padding-left: 30%;
   padding-right: 30%;
 }
