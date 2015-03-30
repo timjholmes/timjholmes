@@ -16,8 +16,10 @@
   <div class="section2">
     <div class="links">
         <ul>
-          <li data-sr="enter right"><a href="http://www.oxford-archers.org">Oxford Archers</a></li>
-          <li data-sr="enter bottom"><a href="http://www.plantwise.org">Plantwise</a></li>
+          <li data-sr="ease-in-out"><a href="http://www.oxford-archers.org">Oxford Archers</a></li>
+          <li data-sr="ease-in-out"><a href="http://www.plantwise.org">Plantwise</a></li>
+          <li data-sr="ease-in-out"><a href="http://www.plantwise.org/knowledgebank">Plantwise Knowledge Bank</a></li>
+          <li data-sr="ease-in-out"><a href="http://www.xkcd.com">XKCD</a></li>
         </ul>
       </div>
   </div>
@@ -26,12 +28,13 @@
       Some things!
     </p>
   </div>
-  <p data-sr="ease-in-out 100px">
-    Swoosh!
-  </p>
 <script type="text/javascript" src="/scripts/scrollReveal.min.js"></script>
 <script>
-  	window.sr = new scrollReveal();
+  	window.sr = new scrollReveal({
+          reset: true,
+     		 move: '50px',
+          mobile: true
+        });
 </script>
 </body>
 </html>
