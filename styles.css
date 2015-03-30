@@ -169,11 +169,12 @@ li {
 }
 
 a {
-  color: Green;
+  color: White;
 }
 
 .footer {
-  padding: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   width: 100%;
   background: #404040;
   color: WhiteSmoke;
